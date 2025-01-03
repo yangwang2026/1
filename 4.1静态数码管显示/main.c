@@ -22,6 +22,6 @@ void main()
 {
 	while(1)
 	{
-	nixie(7,3);	
+	nixie(6,2);	
 	}
 }
